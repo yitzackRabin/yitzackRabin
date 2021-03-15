@@ -29,7 +29,5 @@ Open source is where my mind goes open and learning tech basically my full-time 
     <img src="https://img.shields.io/twitter/follow/NjugiaN?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
--->
-
-⭐ From [reactifyStudio](https://github.com/reactifyStudio) | | Wilson Gichuhi.
+-->.
 # HAPPY CODING :kenya:
