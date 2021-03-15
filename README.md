@@ -20,14 +20,5 @@ I participate in open source by building software products that impacts develope
 Open source is where my mind goes open and learning tech basically my full-time job. 
 <br>
 
-<!--
-<p align="center">
-  <a href="https://github.com/reactifyStudio?tab=followers">
-    <img src="https://img.shields.io/github/followers/reactifyStudio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/NjugiaN">
-    <img src="https://img.shields.io/twitter/follow/NjugiaN?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-</p>
--->.
+
 # HAPPY CODING :kenya:
