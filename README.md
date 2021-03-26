@@ -1,6 +1,9 @@
 ## Hello nerds
 # I Rabin Yitzack 👋
 
+I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservices on the cloud. 
+
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00)
 ## My Tech Stack 
 >When you strive to comprehend your code, you a create better workflow 
@@ -49,7 +52,6 @@
 
 - 👯 I’m looking to collaborate on Open source projects.
 
-I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservices on the cloud. 
 
 
 
