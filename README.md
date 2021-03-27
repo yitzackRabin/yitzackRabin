@@ -34,14 +34,14 @@ I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a comput
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yitzackRabin&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yitzackRabin" />
 </a>
 
 <br>
 
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@yitzackRabin&compact=True"/>
 </a>
 
 <h2> About Me</h2>
