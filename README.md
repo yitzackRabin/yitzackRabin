@@ -4,7 +4,7 @@
 I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservices on the cloud. 
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yitzackRabin&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=paulodhiambo&color=00cf00)
 ## My Tech Stack 
 >When you strive to comprehend your code, you a create better workflow 
 >and become better at what you do. Your code isn't just your job anymore,
@@ -31,10 +31,10 @@ I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a comput
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yitzackRabin&count_private=true&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulodhiambo&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yitzackRabin" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
 </a>
 
 <br>
