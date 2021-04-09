@@ -32,12 +32,11 @@ I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a comput
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yitzackRabin&count_private=true&show_icons=true" />
-[![Rabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=cyberShaw&theme=react-dark)](https://github.com/cyberShaw)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
 </a>
-
+<a>[![Rabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=cyberShaw&theme=react-dark)](https://github.com/cyberShaw)</a>
 <br>
 
 ## Stuff I worked on last week⌚
