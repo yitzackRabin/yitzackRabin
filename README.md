@@ -41,7 +41,7 @@ I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a comput
 
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@yitzackRabin&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
 </a>
 
 <h2> About Me</h2>
