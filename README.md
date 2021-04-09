@@ -30,7 +30,7 @@ I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a comput
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## My GitHub Stats 📊
-[![Rabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=yitzackRabin&theme=react-dark)](https://github.com/cyberShaw)
+[![Rabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=yitzackRabin&theme=react-dark)](https://github.com/yitzackRabin)
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yitzackRabin&count_private=true&show_icons=true" />
 </a>
