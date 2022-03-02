@@ -49,6 +49,8 @@ I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a comput
 - 🔭 I’m currently working on Spring Boot Microservices
 
 - 🌱 I’m currently learning AWS cloud infrastructure
+- react-native cross open-source
+- Blockchain development 
 
 - 👯 I’m looking to collaborate on Open source projects.
 
