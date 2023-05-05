@@ -1,7 +1,18 @@
-## Hello nerds
-# I Rabin Yitzack 👋
+<h1 align="center">
 
-I'm a student at [MASENO UNIVERSITY](https://www.maseno.ac.ke) pursuing a computer science degree. My interest in tech is Web and building microservices on the cloud. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
+  
+</h1>
+
+I am an accomplished Full Stack Developer and Blockchain aficionado, boasting over 3+ years of expertise in the field. My fervor lies in devising cutting-edge solutions and fostering the expansion of the technology community.
+
+### 🛠️ Technologies & Tools
+
+#### Blockchain
+- Ethereum, Solana
+- Smart Contracts (ERC20, ERC721)
+- DeFi, DApps, NFTs
+- Solidity, Rust, web3.js, ethers.js
 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=paulodhiambo&color=00cf00)
