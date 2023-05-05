@@ -60,7 +60,7 @@ I am an accomplished Full Stack Developer and Blockchain aficionado, boasting ov
 
 - 🔭 I’m currently working on Spring Boot Microservices
 
-- 🌱 I’m currently learning AWS cloud infrastructure
+- 🌱 I’m currently working on Azure Microsoft cloud infrastructure
 - react-native cross open-source
 - Blockchain development 
 
