@@ -16,6 +16,7 @@ I am an accomplished Full Stack Developer and Blockchain aficionado, boasting ov
 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=paulodhiambo&color=00cf00)
+
 ## My Tech Stack 
 >When you strive to comprehend your code, you a create better workflow 
 >and become better at what you do. Your code isn't just your job anymore,
