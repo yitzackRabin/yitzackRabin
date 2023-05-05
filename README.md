@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+I+am+prof+Blockchain+dev;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+I+am+professional+Blockchain+dev;I+am+SoftWare+Engineer...;)](https://git.io/typing-svg)
   
 </h1>
 
